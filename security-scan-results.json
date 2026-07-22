@@ -1,0 +1,11 @@
+{
+  "scan_id": "scan-001",
+  "scanner": "CustomSecurityScanner v2.1",
+  "findings": [
+    {"severity": "HIGH", "title": "Potential XXE in upload.php", "confidence": 0.89},
+    {"severity": "CRITICAL", "title": "JWT algorithm confusion", "confidence": 0.95},
+    {"severity": "HIGH", "title": "SQL injection in app.py", "confidence": 0.92},
+    {"severity": "MEDIUM", "title": "Missing rate limiting on /login", "confidence": 0.78},
+    {"severity": "LOW", "title": "Stack trace disclosure", "confidence": 0.65}
+  ]
+}
