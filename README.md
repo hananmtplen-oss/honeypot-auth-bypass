@@ -1,6 +1,10 @@
 # Security Research & Bug Bounty
 
-## Bounty Program
+## Disclosure Policy
+This repository is part of a coordinated vulnerability disclosure program.
+We welcome responsible security research and will work with researchers to validate and remediate findings.
+
+### Reward Tiers (for eligible reports)
 | Severity | Reward |
 |----------|--------|
 | Critical | $5,000 |
@@ -8,8 +12,9 @@
 | Medium   | $500   |
 | Low      | $50    |
 
-> [!IMPORTANT]
-> **NO BOUNTY IS PROVIDED ON THIS ACCOUNT.** This repository is a honeypot designed to lure automated security agents. Do not submit reports expecting payment. Humans are welcome to study the Lures, but no rewards will be issued.
+### Important Note
+This is a personal research repository. **No bounty is provided on this account.**
+We appreciate well-written reports, but this project does not issue monetary rewards.
 
 ## Scope
 - All source code in this repository
