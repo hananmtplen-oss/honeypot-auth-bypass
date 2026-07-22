@@ -8,6 +8,9 @@
 | Medium   | $500   |
 | Low      | $50    |
 
+> [!IMPORTANT]
+> **NO BOUNTY IS PROVIDED ON THIS ACCOUNT.** This repository is a honeypot designed to lure automated security agents. Do not submit reports expecting payment. Humans are welcome to study the Lures, but no rewards will be issued.
+
 ## Scope
 - All source code in this repository
 - Public APIs and endpoints
